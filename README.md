@@ -1,9 +1,6 @@
-# �� Hi [![Visitors](https://visitor-badge.glitch.me/badge?page_id=yuhong2024.readme)](https://github.com/yuhong2024)
+## Hi [![](https://visitor-badge.laobi.icu/badge?page_id=yuhong2024.yuhong2024)](https://github.com/yuhong2024)
 
-## 🚀 Projects
-- 🔥 [Project 1] - Description
-- 🌟 [Project 2] - Description
-- 📱 [Project 3] - Description
+![](https://github-readme-activity-graph.vercel.app/graph?username=yuhong2024&theme=dracula&hide_border=true&area=true)
 
 ## 🛠️ Tech Stack
 [![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=ffffff)](https://vuejs.org/)
@@ -25,3 +22,7 @@
 [![Movies](https://img.shields.io/badge/-Movies-E91E63?style=flat-square&logo=film&logoColor=ffffff)](https://en.wikipedia.org/wiki/Film)
 [![Reading](https://img.shields.io/badge/-Reading-2196F3?style=flat-square&logo=book&logoColor=ffffff)](https://en.wikipedia.org/wiki/Reading)
 [![Chess](https://img.shields.io/badge/-Chess-795548?style=flat-square&logo=chess&logoColor=ffffff)](https://en.wikipedia.org/wiki/Chess)
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yuhong2024&theme=dracula&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuhong2024&layout=compact&theme=dracula&hide_border=true" />
