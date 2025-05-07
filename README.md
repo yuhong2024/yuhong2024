@@ -6,6 +6,8 @@
 
 ## 🎯 Interests & Activities [![Table Tennis](https://img.shields.io/badge/-Table%20Tennis-FF6B6B?style=flat-square&logo=table-tennis&logoColor=ffffff)](https://en.wikipedia.org/wiki/Table_tennis) [![Running](https://img.shields.io/badge/-Running-4CAF50?style=flat-square&logo=running&logoColor=ffffff)](https://en.wikipedia.org/wiki/Running) [![Hiking](https://img.shields.io/badge/-Hiking-8BC34A?style=flat-square&logo=hiking&logoColor=ffffff)](https://en.wikipedia.org/wiki/Hiking) [![CS:GO](https://img.shields.io/badge/-CS:GO-000000?style=flat-square&logo=counter-strike&logoColor=ffffff)](https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/) [![Minecraft](https://img.shields.io/badge/-Minecraft-62B47A?style=flat-square&logo=minecraft&logoColor=ffffff)](https://www.minecraft.net/) [![Movies](https://img.shields.io/badge/-Movies-E91E63?style=flat-square&logo=film&logoColor=ffffff)](https://en.wikipedia.org/wiki/Film) [![Reading](https://img.shields.io/badge/-Reading-2196F3?style=flat-square&logo=book&logoColor=ffffff)](https://en.wikipedia.org/wiki/Reading) [![Chess](https://img.shields.io/badge/-Chess-795548?style=flat-square&logo=chess&logoColor=ffffff)](https://en.wikipedia.org/wiki/Chess)
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yuhong2024&theme=dracula&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuhong2024&layout=compact&theme=dracula&hide_border=true" />
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuhong2024&theme=dracula&hide_border=true&area=true" height="160" style="display:inline-block;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuhong2024&theme=dracula&hide_border=true" height="160" style="display:inline-block;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuhong2024&layout=compact&theme=dracula&hide_border=true" height="160" style="display:inline-block;"/>
+</div>
